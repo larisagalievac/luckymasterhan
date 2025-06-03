@@ -1,0 +1,9 @@
+{
+"LuckyEnable": false,
+"LuckyLocales": ["Russian"],
+"LuckyTimes": ["Yekaterinburg"],
+"LuckyHaunterLinks":
+[
+  { "Lang":"Russian", "Link": [""]}
+]
+}
