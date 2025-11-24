@@ -1,0 +1,9 @@
+{
+    "FruitEnable": false,
+    "FruitLang": ["Spanish"],
+    "FruitTime": ["Tijuana", "Mazatlan", "Ciudad_Juarez","Hermosillo", "Ojinaga", "Chihuahua", "Matamoros", "Mexico_City", "Cancun", "Santiago" , "Easter", "Punta_Arenas"],
+    "FruitLink": 
+    [ 
+          { "Lang":"Spanish", "Links": [""]}
+    ]
+ }
